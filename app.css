@@ -34,6 +34,9 @@
 #searchbar {
   margin: 10px;
 }
+.loginbox {
+  margin: 10px;
+}
 input{
   font-size: 12px;
   font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
