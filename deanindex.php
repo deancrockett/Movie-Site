@@ -78,7 +78,7 @@
 	      ?>
 	      <div class='col-md-6 col-xs-12' id="login">
 				<form class="form-inline" method='get'>
-					<div class="form-group">
+					<div class="form-group loginbox">
     					<label class="sr-only" for="user-email">Email address</label>
     					<input type="email" class="form-control" id="user-email" placeholder="Email">
   					</div>
