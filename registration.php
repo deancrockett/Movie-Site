@@ -10,7 +10,7 @@
 </head>
 
 <style type="text/css">
-   body { background: black !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+   body { background: #444444 !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
 </style>
 
 <body>
